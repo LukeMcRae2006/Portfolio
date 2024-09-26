@@ -6,7 +6,7 @@ let gD = document.getElementById("gDescription");
 let gDs = ["Bad Hare Day", "A Stranger In Your Eyes"];
 let gDL = ["https://skulldude.itch.io/bad-hare-day", "https://skulldude.itch.io/a-stranger-in-your-eyes"];
 let gDText = document.getElementById("gd-text");
-let gDTexts = ["Throw. Shoot. Slash. Saw through hords of zombies!", "Swing through a world and witness the fleeing memories. This game was created in participation with a game jam, on itch.io. It was created in 6 days, and published on the 7th day."];
+let gDTexts = ["Throw. Shoot. Slash. Saw through hords of zombies!", "Swing through a world and witness the fleeing memories. This game was created in participation with a game jam, on itch.io."];
 x = 0;
 y = 0;
 function addGame()
