@@ -102,8 +102,8 @@ display: block;
     display: block;
       margin-left: auto;
       margin-right: auto;
-      width: 26vw; 
-      height: 52vh;
+      width: 22vw; 
+      height: 50vh;
       box-shadow: 0px 0px 10px black;
       border: 5px solid black;
       
@@ -121,7 +121,7 @@ display: block;
 @media screen and (max-width: 548px){
 
     body{
-        background-color: grey;
+        background-color: rgb(144, 205, 215);
     }
 
     .about-me-text{

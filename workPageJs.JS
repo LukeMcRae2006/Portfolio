@@ -1,5 +1,5 @@
 let gImage = document.getElementById("game-picture");
-let gImages = ["photos/badHareDay.PNG", "photos/aStrangerInYourEyes.PNG"];
+let gImages = ["photos/badHareDay.png", "photos/aStrangerInYourEyes.png"];
 let aImage = document.getElementById("arcade-picture");
 let aImages = ["photos/image5.JPEG", "photos/image6.JPEG"];
 let gD = document.getElementById("gDescription");
